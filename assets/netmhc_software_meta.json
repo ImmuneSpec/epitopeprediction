@@ -1,26 +1,26 @@
 {
     "netmhcpan": {
         "version": 4.1,
-        "software_md5": "105210d3de5525076347973e9391131c",
+        "software_md5": "c2a94da25b10f2117d4bbf41656f329b",
         "data_url": "https://services.healthtech.dtu.dk/services/NetMHCpan-4.1/data.tar.gz",
         "data_md5": "4bdd3944cb4c5b8ba4d8900dae074c85",
         "binary_name": "netMHCpan"
     },
     "netmhcpan_darwin": {
         "version": 4.1,
-        "software_md5": "5f6eab43feb80a24e32eb02b22e9db5f",
+        "software_md5": "4080ee1ce731015473da0cccb822e1e4",
         "data_url": "https://services.healthtech.dtu.dk/services/NetMHCpan-4.1/data.tar.gz",
         "data_md5": "4bdd3944cb4c5b8ba4d8900dae074c85",
         "binary_name": "netMHCpan"
     },
     "netmhciipan": {
         "version": 4.3,
-        "software_md5": "477d65f92b6b217fdec2d3af65c2df79",
+        "software_md5": "3783c3912da216c0e3423321fc1d4ebc",
         "binary_name": "netMHCIIpan"
     },
     "netmhciipan_darwin": {
         "version": 4.3,
-        "software_md5": "722de2a933d5410bbf481ee0cfe36217",
+        "software_md5": "246fd783af2e1692bdb42f07ea263355",
         "binary_name": "netMHCIIpan"
     }
 }
